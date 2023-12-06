@@ -1,6 +1,6 @@
 {
   "name": "workbox-mirror-precache-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A workbox plugin that fetch precache files from various mirrors.",
   "main": "lib/index.js",
   "module": "lib/index.js",
@@ -8,6 +8,7 @@
   "type": "module",
   "packageManager": "pnpm@8.10.3",
   "scripts": {
+    "prepublishOnly": "npm run build",
     "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
