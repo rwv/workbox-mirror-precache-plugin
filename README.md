@@ -1,6 +1,10 @@
 # 📦 workbox-mirror-precache-plugin
 A workbox plugin that fetch precache files from various mirrors.
 
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/rwv/workbox-mirror-precache-plugin/build.yml)](https://github.com/rwv/workbox-mirror-precache-plugin/actions/workflows/build.yml)
+[![npm](https://img.shields.io/npm/v/workbox-mirror-precache-plugin)](https://www.npmjs.com/package/workbox-mirror-precache-plugin)
+![NPM](https://img.shields.io/npm/l/workbox-mirror-precache-plugin)
+
 ## Usage
 
 ``` bash
