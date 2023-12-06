@@ -1,4 +1,4 @@
-import type { PrecacheEntry } from "workbox-precaching";
+import type { PrecacheEntry } from "./types";
 import { PrecacheWorker } from "./precache-worker";
 
 export class PrecacheManager {

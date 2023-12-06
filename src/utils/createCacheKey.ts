@@ -8,7 +8,7 @@
   https://opensource.org/licenses/MIT.
 */
 
-import type { PrecacheEntry } from "workbox-precaching";
+import type { PrecacheEntry } from "../types";
 
 interface CacheKey {
   cacheKey: string;

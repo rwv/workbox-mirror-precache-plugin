@@ -1,8 +1,8 @@
 import type {
+  PrecacheEntry,
   WorkboxPlugin,
   HandlerWillStartCallback,
-} from "workbox-core/types";
-import type { PrecacheEntry } from "workbox-precaching";
+} from "./types";
 import { PrecacheManager } from "./precache-manager";
 
 export class MirrorPrecachePlugin implements WorkboxPlugin {

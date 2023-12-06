@@ -1,5 +1,5 @@
 import { createCacheKey } from "./utils/createCacheKey";
-import type { PrecacheEntry } from "workbox-precaching";
+import type { PrecacheEntry } from "./types";
 
 export class PrecacheWorker {
   private readonly cache: Cache;
