@@ -10,6 +10,7 @@ npm install workbox-mirror-precache-plugin
 ``` ts
 import { addPlugins } from "workbox-precaching";
 import { cacheNames } from "workbox-core";
+import { MirrorPrecachePlugin } from "workbox-mirror-precache-plugin";
 
 const cacheName = cacheNames.precache;
 const entries = self.__WB_MANIFEST;
