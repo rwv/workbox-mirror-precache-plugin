@@ -25,5 +25,9 @@
   "homepage": "https://github.com/rwv/workbox-mirror-precache-plugin#readme",
   "bugs": {
     "url": "https://github.com/rwv/workbox-mirror-precache-plugin/issues"
-  }
+  },
+  "files": [
+    "lib",
+    "src"
+  ]
 }
