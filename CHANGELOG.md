@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/rwv/workbox-mirror-precache-plugin/compare/v1.1.0...v1.1.1) (2024-08-01)
+
+
+### Miscellaneous Chores
+
+* add provenance statements in package ([603cd55](https://github.com/rwv/workbox-mirror-precache-plugin/commit/603cd55f87495cd795f6a3f0d3d444dce97b4773))
+
 ## [1.1.0](https://github.com/rwv/workbox-mirror-precache-plugin/compare/v1.0.1...v1.1.0) (2024-08-01)
 
 
