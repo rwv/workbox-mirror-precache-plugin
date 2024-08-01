@@ -20,5 +20,10 @@
   "license": "MIT",
   "devDependencies": {
     "typescript": "^5.3.2"
+  },
+  "repository": "github:rwv/workbox-mirror-precache-plugin",
+  "homepage": "https://github.com/rwv/workbox-mirror-precache-plugin#readme",
+  "bugs": {
+    "url": "https://github.com/rwv/workbox-mirror-precache-plugin/issues"
   }
 }
